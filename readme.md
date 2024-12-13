@@ -18,3 +18,4 @@ unraid 中的 docker 应用默认的图标在中国境内不容易被加载。
 | <img src="https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/radarr.png"  width="64" height="64" >             | https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/radarr.png             |
 | <img src="https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/sonarr.png"  width="64" height="64" >             | https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/sonarr.png             |
 | <img src="https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/transmission.png"  width="64" height="64" >       | https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/transmission.png       |
+| <img src="https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/memos.png"  width="64" height="64" >              | https://cdn.jsdelivr.net/gh/Zrain-X/unraid-icon@main/icon/memos.png              |
